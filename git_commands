@@ -1,0 +1,9 @@
+git clone [link] to clone everything from the website
+
+After changes in a file, save the file and follow the instruction below
+
+run git status to find the status of the untracked files.
+
+1. git add [name of the file you want to push to github]
+2. git commit -m "Commit Message"
+3. git push
